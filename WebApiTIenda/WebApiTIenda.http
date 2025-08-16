@@ -1,0 +1,6 @@
+@WebApiTIenda_HostAddress = http://localhost:5100
+
+GET {{WebApiTIenda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
